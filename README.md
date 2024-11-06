@@ -1,4 +1,5 @@
 <img src="docs/source/mypy_light.svg" alt="mypy logo" width="300px"/>
+#By Mudassir Alam
 
 Mypy: Static Typing for Python
 =======================================
